@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @httpcyberdata
 - 👀 I’m interested in ReactJS, Ruby & Rails, Typescript and JavaScript frameworks
-- 🌱 I’m currently learning Software Architecture & Software microservices
+- 🌱 I’m currently learning Software Architecture & Software Microservices
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me | dmitrievichyurkovsamuil@gmail.com
